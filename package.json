@@ -1,6 +1,6 @@
 {
   "name": "create-ervmongo-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spin up a basic react-view/express/mongo build.",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexMercedCoder/react-basic.git"
+    "url": "git+https://github.com/AlexMercedCoder/create-ervmongo-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexMercedCoder/react-basic/issues"
+    "url": "https://github.com/AlexMercedCoder/create-ervmongo-app/issues"
   },
-  "homepage": "https://github.com/AlexMercedCoder/react-basic#readme"
+  "homepage": "https://github.com/AlexMercedCoder/create-ervmongo-app#readme"
 }
