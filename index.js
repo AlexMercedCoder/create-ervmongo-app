@@ -2,7 +2,7 @@
 
 const { exec, spawnSync } = require("child_process");
 
-const [, , name = "myreactproject"] = process.argv;
+const [, , name = "myervproject"] = process.argv;
 
 //COMMAND LINE COLOR OBJECTS
 const colors = {
@@ -46,7 +46,7 @@ console.log(
 
 const jsclone = spawnSync(`git`, [
   "clone",
-  "https://github.com/AlexMercedCoder/react_webpack_basic.git",
+  "https://github.com/AlexMercedCoder/express-mongo-reactviews-template.git",
   name,
 ]);
 console.log(
